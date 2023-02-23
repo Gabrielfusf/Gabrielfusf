@@ -32,8 +32,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Gabrielfusf&show_icons=true&theme=vision-friendly-dark" alt="Gabrielfusf's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielfusf&layout=compact&theme=vision-friendly-dark" alt="Gabrielfusf's most languages"/>
 </p>
 -->
 
@@ -43,10 +43,10 @@
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/joao-gabriel-fuschilo-faria-7a1a37115/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Gabrielfusf-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/cybergabrielfusf" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-Gabrielfusf-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
