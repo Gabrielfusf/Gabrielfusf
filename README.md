@@ -31,10 +31,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Gabrielfusf&show_icons=true&theme=vision-friendly-dark" alt="Gabrielfusf's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielfusf&layout=compact&theme=vision-friendly-dark" alt="Gabrielfusf's most languages"/>
-</p>
+
 -->
 
 <br><br>
