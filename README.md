@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Gabriel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gabrielfusf&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Full Cycle Web/Mobile Developer, universe of Javascript/Typescript
+- 🔥 Full Cycle Web/Mobile Developer, universe of Javascript/Typescript
 
 - 🔭 Production Projects [ATIVAA](https://github.com/sosferidasmedicas)
 
